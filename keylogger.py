@@ -1,7 +1,7 @@
 """
 Keylogger - Trabajo Parcial: Hacking Ético (1CCB0001)
 ======================================================
-Propósito: Educativo / demostrativo en entorno controlado (VM).
+Propósito: educativo / demostrativo en entorno controlado (VM).
 NO usar en sistemas sin autorización explícita del propietario.
 
 Funcionalidades implementadas:
